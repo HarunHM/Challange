@@ -1,2 +1,2 @@
 ## Link
-[https://luxcha.netlify.app/)
+https://luxcha.netlify.app/
